@@ -1,4 +1,5 @@
 /* Magic Mirror
+ * Custom version by jheyman based on :
  * Node Helper: MMM-OnScreenMenu
  *
  * By shbatm
