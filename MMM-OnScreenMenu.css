@@ -53,6 +53,7 @@
     text-align: center;
     position: fixed;
     cursor: pointer !important;
+    /*cursor: none;*/
     margin: 1em;
 }
 
@@ -127,6 +128,7 @@
     transition-delay: 0ms;
 }
 
+
 .openMenu .osmButtons.menu .closed,
 .osmContainer:hover .osmButtons.menu .closed {
     opacity: 0 !important;
@@ -136,6 +138,7 @@
     transition-delay: 500ms;
 }
 
+
 .osmContainer:hover .osmButtons.menu .opened,
 .openMenu .osmButtons.menu .opened {
     opacity: 1 !important;
@@ -144,6 +147,7 @@
     -webkit-transition-delay: 600ms;
     transition-delay: 600ms;
 }
+
 
 .osmButtons:active,
 .osmButtons:focus,
